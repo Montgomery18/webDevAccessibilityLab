@@ -54,6 +54,7 @@ main {
   border: 1px solid #ccc;
   border-radius: 8px;
   margin: 70px 0 0 10px;
+  background-color: #ddd9e6;
 }
 .left-float {
   float: left;
