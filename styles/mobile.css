@@ -88,6 +88,16 @@ th {
   border-bottom: 4px solid #000;
   background-color: #fff;
 }
+tr{
+  background-color:#cdc;
+}
 tr:nth-child(odd) {
   background-color: #ccc;
+}
+label{
+  display:block;
+  padding:5px 0px;
+}
+input[type="submit"]{
+  margin:5px 0px;
 }
