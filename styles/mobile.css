@@ -65,6 +65,9 @@ footer {
   font-style: italic;
 }
 #logo{
+  display: inline-block;
+  width: 100%;
+  font-weight: bold;
   text-decoration: none;
   text-decoration-color: #fff;
 }
