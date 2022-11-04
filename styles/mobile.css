@@ -64,10 +64,9 @@ footer {
   text-align: center;
   font-style: italic;
 }
-#logo{
-  display: inline-block;
-  width: 100%;
+#logo > a{
+  display:inline-block;
   font-weight: bold;
   text-decoration: none;
-  text-decoration-color: #fff;
+  color: #fff;
 }
